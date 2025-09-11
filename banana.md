@@ -139,5 +139,5 @@ Para listas mais completas, busque por "wordlist portuguese" no GitHub ou use to
 - Esse processo é ético apenas se você for o proprietário do roteador.
 - No modo live, tudo é perdido ao desligar. Use persistência ou salve em mídia externa se precisar manter dados.
 - O tempo de cracking depende do tamanho do dicionário e da complexidade da senha.
-
+> [debian testing - intel-media-non-free](https://packages.debian.org/search?keywords=intel-media-va-driver-non-free)
 Se seguir esses passos, chances são de que recupere a senha! 🔓
